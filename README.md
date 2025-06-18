@@ -21,7 +21,7 @@ I should note that a cursory search on GitHub for "discover weekly" will show th
 Due to the need to provide authorization for this code to read and write playlists to your account, there are a couple steps to get started. The first step, though, is to clone the repo and install the python dependencies using poetry:
 
 ```commandline
-git clone git@github.com:EthanRosenthal/discovered-weekly.git && cd discovered-weekly
+git clone git@github.com:ShannonSimpson/spotify_fun.git && cd discovered-weekly
 poetry install
 ```
 
